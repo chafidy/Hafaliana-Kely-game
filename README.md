@@ -2,6 +2,8 @@
 
 **Les petits bonheurs malagasy** — un mini-jeu d'aventure en 3D isométrique, jouable dans le navigateur, pensé d'abord pour le téléphone.
 
+**▶ [Jouer maintenant](https://chafidy.github.io/Hafaliana-Kely-game/)**
+
 On y vit une journée ordinaire à Madagascar, du matin à la nuit. Chaque petit moment de joie remplit la jauge « Hafaliana » jusqu'à 100 %.
 
 ## Le jeu
